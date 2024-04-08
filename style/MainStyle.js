@@ -7,11 +7,14 @@ const styles = StyleSheet.create({
         backgroundColor: "#fff",
         alignItems: "center",
         justifyContent: "center",
-        
+        top:10,
     },
+ 
     botoes: {
         rowGap: 20,
-        marginTop: 20,
+        marginTop: 10,
+       width:'50%',
+       alignSelf:'center'
 
     },
     containerMask:{
